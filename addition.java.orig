@@ -11,13 +11,10 @@ public class addition{
   b=sc.nextInt();
   z=x+y;
   c=a+b;
-
-    System.out.println("The sum is : "+z);
-    System.out.println("Welcome to Github Repository Dev1 !!");
-
-    System.out.println("The sum of two numbers is : "+c);
+    System.out.println("The sum is : "+c);
+    System.out.println("Github Repository Dev1 !!");
+    System.out.println("The sum of two numbers is : "+z);
     System.out.println("Welcome to Github Repository Dev2 !!");
-
   }
 }
   
