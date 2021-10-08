@@ -2,13 +2,13 @@ import java.util.*;
 import java.util.Scanner;
 public class addition{
   public static void main(String[] args){
-  int a1,b1,c1;
+  int x,y,z;
   Scanner sc=new Scanner(System.in);
-  a1=sc.nextInt();
-  b1=sc.nextInt();
-  c1=a1+b1;
-    System.out.println("The sum is : "+c);
-    System.out.println("Github Repository !!");
+  x=sc.nextInt();
+  y=sc.nextInt();
+  z=x+y;
+    System.out.println("The sum is : "+z);
+    System.out.println("Github Repository Dev1 !!");
   }
 }
   
